@@ -1,0 +1,7 @@
+﻿[
+    { "id": "Name", "text": "姓名", "type": "textbox" },
+    { "id": "Email", "text": "邮箱", "type": "textbox" },
+    { "id": "Age", "text": "年龄", "type": "numberbox" },
+    { "id": "Birthday", "text": "生日", "type": "datebox" },
+    { "id": "Language", "text": "语言", "type": "combobox","remoteUrl": "/Data/Languages.json" }
+]

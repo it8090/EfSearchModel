@@ -1,0 +1,9 @@
+﻿[
+    { "id": "[Contains]", "text": "包含" },
+    { "id": "[Equal]", "text": "等于" },
+    { "id": "[NotEqual]", "text": "不等于" },
+    { "id": "[GreaterThan]", "text": "大于" },
+    { "id": "[LessThan]", "text": "小于" },
+    { "id": "[GreaterThanOrEqual]", "text": "大于等于" },
+    { "id": "[LessThanOrEqual]", "text": "小于等于" }
+]

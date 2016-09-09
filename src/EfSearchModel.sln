@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfSearchModel", "EfSearchModel\EfSearchModel.csproj", "{ABFB2291-6267-4436-B383-9125E484A8C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfSearchModel.Tests", "EfSearchModel.Tests\EfSearchModel.Tests.csproj", "{4D6AE1E0-6F20-446C-846D-7F677016B118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfSearchModel.Web", "EfSearchModel.Web\EfSearchModel.Web.csproj", "{D7F181CD-4D21-467D-8CBB-2BC93C2928C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFB2291-6267-4436-B383-9125E484A8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB2291-6267-4436-B383-9125E484A8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB2291-6267-4436-B383-9125E484A8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB2291-6267-4436-B383-9125E484A8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6AE1E0-6F20-446C-846D-7F677016B118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6AE1E0-6F20-446C-846D-7F677016B118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6AE1E0-6F20-446C-846D-7F677016B118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6AE1E0-6F20-446C-846D-7F677016B118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F181CD-4D21-467D-8CBB-2BC93C2928C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F181CD-4D21-467D-8CBB-2BC93C2928C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F181CD-4D21-467D-8CBB-2BC93C2928C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F181CD-4D21-467D-8CBB-2BC93C2928C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
